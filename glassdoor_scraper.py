@@ -3,6 +3,10 @@
 # Press ⇧F10 to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
+"""
+author: Kenarapfaik
+url: https://github.com/arapfaik/scraping-glassdoor-selenium
+"""
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time

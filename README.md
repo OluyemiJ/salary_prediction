@@ -53,8 +53,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/OluyemiJ/salary_prediction/salary_by_city.png "Job Opportunities by City")
-![alt text](https://github.com/OluyemiJ/salary_prediction/blob/correlation_heat_map.png "Correlations")
+![alt text](https://github.com/OluyemiJ/salary_prediction/blob/master/salary_by_city.png "Job Opportunities by City")
+![alt text](https://github.com/OluyemiJ/salary_prediction/blob/master/correlation_heat_map.png "Correlations")
 
 ## Model Building 
 
